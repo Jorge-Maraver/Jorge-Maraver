@@ -10,4 +10,4 @@ Mi correo electrónico es: jorgemaraverperez@gmail.com
 
 También, ésta es mi página de LinkedIn: <a href="https://linkedin.com/in/jorge-maraver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-maraver" height="15" width="20" /></a>
 
-<p align="center"><a href="https://ibb.co/0tf1J01" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/dgQXKNX/CCC-Bienvenida.png" alt="cplusplus" width="300"/><br><p>¡Bienvenidos a mi GitHub!</p></a></p>
+<p align="center"><a href="https://ibb.co/0tf1J01" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/dgQXKNX/CCC-Bienvenida.png" alt="cplusplus" width="300"/><br><p align="center">¡Bienvenidos a mi GitHub!</p></a></p>
