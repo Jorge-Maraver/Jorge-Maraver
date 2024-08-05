@@ -2,12 +2,12 @@
 
 <h2 align="center">Programador Junior</h2>
 
-<p align="center">Soy estudiante de [Computación e Inteligencia Artificial](https://www.uax.com/titulaciones/grado-online-en-ciencia-de-datos-e-inteligencia-artificial) en la universidad **UAX**</p>
+Soy estudiante de [Computación e Inteligencia Artificial](https://www.uax.com/titulaciones/grado-online-en-ciencia-de-datos-e-inteligencia-artificial) en la universidad **UAX**
 
-<p align="center">Los lenguajes de programación que mejor domino son: **C#**,**Python**, **SQL** y **C++**</p>
+Los lenguajes de programación que mejor domino son: **C#**,**Python**, **SQL** y **C++**
 
-<p align="center">Mi correo electrónico es: jorgemaraverperez@gmail.com</p>
+Mi correo electrónico es: jorgemaraverperez@gmail.com
 
-<p align="center">También, ésta es mi página de LinkedIn: <a href="https://linkedin.com/in/jorge-maraver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-maraver" height="15" width="20" /></a></p>
+También, ésta es mi página de LinkedIn: <a href="https://linkedin.com/in/jorge-maraver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-maraver" height="15" width="20" /></a>
 
 <p align="center"><a href="https://ibb.co/0tf1J01" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/dgQXKNX/CCC-Bienvenida.png" alt="cplusplus" width="300"/><br><p>¡Bienvenidos a mi GitHub!</p></a></p>
