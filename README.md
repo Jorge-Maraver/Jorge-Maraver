@@ -8,7 +8,7 @@ Los lenguajes de programación que mejor domino son: **C#**,**Python**, **SQL** 
 
 Mi correo electrónico es: jorgemaraverperez@gmail.com
 
-Ésta es mi [página web personal](https://jorgemaraverperez.com/)
+Ésta es mi [página web personal](https://jorgemaraverperez.com/).
 
 Ésta es mi página de LinkedIn: <a href="https://linkedin.com/in/jorge-maraver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-maraver" height="15" width="20" /></a>
 
